@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Xamarin Forms, VueJS and NodeJS projects
 - 📫 How to reach me: 
       [![twitter](https://img.shields.io/twitter/follow/BriceFriha?label=Follow%20on%20Twitter&style=social)](https://twitter.com/BriceFriha?ref_src=twsrc%5Etfw)
-- 😄 Pronouns: Braiss Fry-aaaah
+- 😄 Pronouns: Braiss Fry-haaaa
 
