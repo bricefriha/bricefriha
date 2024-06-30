@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 🌱 I'm a Vegan, for animal and human rights
 - 📫 How to reach me: 
       [![twitter](https://img.shields.io/twitter/follow/BriceFriha?label=Follow%20on%20Twitter&style=social)](https://twitter.com/BriceFriha?ref_src=twsrc%5Etfw)
-- 😄 Pronouns: Braiss Fry-haaaa
+- 😄 Pronouns: He/Him
 
