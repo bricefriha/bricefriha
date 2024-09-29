@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About me 😁
 - 🔭 I’m currently working on [GamHub 🎮](https://github.com/Gamhub-io/AresGaming)
-- 📝 **I’m currently learning:** about everything, I'm an eternal learner 
+- 📝 **I’m currently learning:** golang
 - 👯 I’m looking to collaborate on .NET MAUI, Xamarin Forms, VueJS and NodeJS projects
 - 🌱 I'm a Vegan, for animal and human rights
 - 📫 How to reach me: 
