@@ -1,6 +1,6 @@
 
 ![Bryce's stat](https://github-readme-stats.vercel.app/api?username=bricefriha&show_icons=true&theme=dark)
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=bricefriha&theme=dark)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=bricefriha&theme=dark&size_weight=0.5&count_weight=0.5)
 
 <!--
 **bricefriha/bricefriha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
