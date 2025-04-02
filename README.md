@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - 🌱 I'm a Vegan: animal and human rights advocate
 - 📫 How to reach me: 
       [![twitter](https://img.shields.io/twitter/follow/BriceFriha?label=Follow%20on%20Twitter&style=social)](https://twitter.com/BriceFriha?ref_src=twsrc%5Etfw)
-- 😄 Pronouns: He/Him
 
